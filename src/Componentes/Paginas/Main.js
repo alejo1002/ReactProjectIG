@@ -6,9 +6,9 @@ import Search from './Search';
 
 const Navegacion = (
     <Router>
+        <Route path="/Search" component={Search}/>
         <Route path="/Login" component={Inicio}/>
         <Route path="/Register" component={Register}/>
-        <Route path="/Search" component={Search}/>
     </Router>
 )
 
