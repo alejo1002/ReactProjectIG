@@ -1,0 +1,11 @@
+/* .App {
+  text-align: center;
+  background-color: red;
+} */
+
+.prj-imagen{
+  width: 30px;
+  height: 30px;
+  border-radius: 12px;
+  background-color: green;
+}
